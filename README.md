@@ -1,6 +1,6 @@
 ![3](https://github.com/Jeysiva-apjs/LearnAcademy/assets/126048586/ed1f579e-2155-4e38-9dd6-b61eeb534b40)
 
-Lear Academy is an e-learning platform that facilitates the sale of courses.
+Lear Academy is a learning platform facilitating user registration, course management, and enrollment.
 
 
 ## Admin Dashboard
